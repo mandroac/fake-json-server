@@ -1,5 +1,5 @@
 {
   "poker": {
-    "hello": "Thank you for signing in"
+    "hello": "Message from json server!"
   }
 }
